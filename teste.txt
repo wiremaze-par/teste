@@ -1,5 +1,3 @@
 Isto é um ficheiro
 
 teste
-teste
-teste
